@@ -1,5 +1,13 @@
 # 마이데이터 4조
 
+## 개요
+
+* 일시 : 2020년 10월 25일 ~ 2020년 10월 29일
+* 팀원 구성 : 기획자 1명 (강의주), 개발자 5명 (김은서, 이소연, 최미래, 허은별, 황예나)
+
+
+## 발표 쟈료
+
 <img width="625" alt="스크린샷 2020-10-30 오후 2 23 53" src="https://user-images.githubusercontent.com/39182235/97663030-dcc47080-1abb-11eb-95ac-22e8bcddd333.png">
 <img width="626" alt="스크린샷 2020-10-30 오후 2 24 02" src="https://user-images.githubusercontent.com/39182235/97663033-df26ca80-1abb-11eb-89e5-bd5c2f38d19d.png">
 <img width="629" alt="스크린샷 2020-10-30 오후 2 24 15" src="https://user-images.githubusercontent.com/39182235/97663035-e057f780-1abb-11eb-92cd-91ba98b055a3.png">
