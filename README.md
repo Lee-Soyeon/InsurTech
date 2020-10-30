@@ -1,2 +1,2 @@
-# InsurTech
-project team 4
+# 마이데이터 4조
+
